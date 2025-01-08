@@ -1,0 +1,18 @@
+C:\Users\Samarth\source\repos\SAMDIGI TECH Billing Invoice Application\SAMDIGI TECH Billing Invoice Application\bin\Debug\net8.0-windows\SAMDIGI TECH Billing Invoice Application.exe
+C:\Users\Samarth\source\repos\SAMDIGI TECH Billing Invoice Application\SAMDIGI TECH Billing Invoice Application\bin\Debug\net8.0-windows\SAMDIGI TECH Billing Invoice Application.deps.json
+C:\Users\Samarth\source\repos\SAMDIGI TECH Billing Invoice Application\SAMDIGI TECH Billing Invoice Application\bin\Debug\net8.0-windows\SAMDIGI TECH Billing Invoice Application.runtimeconfig.json
+C:\Users\Samarth\source\repos\SAMDIGI TECH Billing Invoice Application\SAMDIGI TECH Billing Invoice Application\bin\Debug\net8.0-windows\SAMDIGI TECH Billing Invoice Application.dll
+C:\Users\Samarth\source\repos\SAMDIGI TECH Billing Invoice Application\SAMDIGI TECH Billing Invoice Application\bin\Debug\net8.0-windows\SAMDIGI TECH Billing Invoice Application.pdb
+C:\Users\Samarth\source\repos\SAMDIGI TECH Billing Invoice Application\SAMDIGI TECH Billing Invoice Application\obj\Debug\net8.0-windows\SAMDIGI_TECH_Billing_Invoice_Application.BillingForm.resources
+C:\Users\Samarth\source\repos\SAMDIGI TECH Billing Invoice Application\SAMDIGI TECH Billing Invoice Application\obj\Debug\net8.0-windows\SAMDIGI_TECH_Billing_Invoice_Application.Form1.resources
+C:\Users\Samarth\source\repos\SAMDIGI TECH Billing Invoice Application\SAMDIGI TECH Billing Invoice Application\obj\Debug\net8.0-windows\SAMDIGI_TECH_Billing_Invoice_Application.Properties.Resources.resources
+C:\Users\Samarth\source\repos\SAMDIGI TECH Billing Invoice Application\SAMDIGI TECH Billing Invoice Application\obj\Debug\net8.0-windows\SAMDIGI TECH Billing Invoice Application.csproj.GenerateResource.cache
+C:\Users\Samarth\source\repos\SAMDIGI TECH Billing Invoice Application\SAMDIGI TECH Billing Invoice Application\obj\Debug\net8.0-windows\SAMDIGI TECH Billing Invoice Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samarth\source\repos\SAMDIGI TECH Billing Invoice Application\SAMDIGI TECH Billing Invoice Application\obj\Debug\net8.0-windows\SAMDIGI TECH Billing Invoice Application.AssemblyInfoInputs.cache
+C:\Users\Samarth\source\repos\SAMDIGI TECH Billing Invoice Application\SAMDIGI TECH Billing Invoice Application\obj\Debug\net8.0-windows\SAMDIGI TECH Billing Invoice Application.AssemblyInfo.cs
+C:\Users\Samarth\source\repos\SAMDIGI TECH Billing Invoice Application\SAMDIGI TECH Billing Invoice Application\obj\Debug\net8.0-windows\SAMDIGI TECH Billing Invoice Application.csproj.CoreCompileInputs.cache
+C:\Users\Samarth\source\repos\SAMDIGI TECH Billing Invoice Application\SAMDIGI TECH Billing Invoice Application\obj\Debug\net8.0-windows\SAMDIGI TECH Billing Invoice Application.dll
+C:\Users\Samarth\source\repos\SAMDIGI TECH Billing Invoice Application\SAMDIGI TECH Billing Invoice Application\obj\Debug\net8.0-windows\refint\SAMDIGI TECH Billing Invoice Application.dll
+C:\Users\Samarth\source\repos\SAMDIGI TECH Billing Invoice Application\SAMDIGI TECH Billing Invoice Application\obj\Debug\net8.0-windows\SAMDIGI TECH Billing Invoice Application.pdb
+C:\Users\Samarth\source\repos\SAMDIGI TECH Billing Invoice Application\SAMDIGI TECH Billing Invoice Application\obj\Debug\net8.0-windows\SAMDIGI TECH Billing Invoice Application.genruntimeconfig.cache
+C:\Users\Samarth\source\repos\SAMDIGI TECH Billing Invoice Application\SAMDIGI TECH Billing Invoice Application\obj\Debug\net8.0-windows\ref\SAMDIGI TECH Billing Invoice Application.dll
